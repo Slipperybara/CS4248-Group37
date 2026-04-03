@@ -6,7 +6,7 @@ This project explores the automated generation of factual financial market repor
 ## Acknowledgements & Attribution
 This project builds heavily upon the baseline data-to-text pipeline developed in the [DataTales](https://github.com/YourLinkToDataTales) repository. 
 * The baseline dataset compilation, raw table parsing, and evaluation formatting scripts are adapted from their original work. 
-* **Our novel contributions** include the engineering of a dynamic `InstanceFactExtractor` for statistical RAG injection, mathematical enrichment of table features, dynamic token-truncation algorithms for context window management, and zero-shot inference optimization on open-weight models.
+* **Our novel contributions** include the engineering of a dynamic `InstanceFactExtractor` for statistical RAG injection, mathematical enrichment of table features, and zero-shot inference optimization on open-weight models.
 
 ## Repository Structure
 This repository is divided into two primary workflows:
@@ -118,3 +118,4 @@ This section contains the necessary scripts to evaluate the generated datasets u
 **Key Components:**
 * **Fine-Tuning & Inference:** Includes complete scripts for LoRA fine-tuning as well as running generation tasks.
 * **Supported Models:** Specifically configured and tested for inference on **Llama-2-7b** and **Qwen2.5-7b**.
+* **Jupyter Notebook:** A interactive environment to test out RAG generation
