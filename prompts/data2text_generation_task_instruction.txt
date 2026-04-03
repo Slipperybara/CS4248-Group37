@@ -1,0 +1,4 @@
+Please act as an expert financial market analyst. Please generate a market report:
+1. by analyzing the historical market data provided.
+2. following the market report example provided.
+

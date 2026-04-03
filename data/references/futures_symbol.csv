@@ -1,0 +1,337 @@
+market,name,symbol,expiration_date
+cattle,Live Cattle Future,LEG1,2021-02-26
+cattle,Live Cattle Future,LEJ1,2021-04-30
+cattle,Live Cattle Future,LEM1,2021-06-30
+cattle,Live Cattle Future,LEQ1,2021-08-31
+cattle,Live Cattle Future,LEV1,2021-10-29
+cattle,Live Cattle Future,LEZ1,2021-12-31
+cattle,Live Cattle Future,LEG2,2022-02-28
+cattle,Live Cattle Future,LEJ2,2022-04-29
+cattle,Live Cattle Future,LEM2,2022-06-30
+cattle,Live Cattle Future,LEQ2,2022-08-31
+cattle,Live Cattle Future,LEV2,2022-10-31
+cattle,Live Cattle Future,LEZ2,2022-12-30
+cattle,Live Cattle Future,LEG3,2023-02-28
+cattle,Live Cattle Future,LEJ3,2023-04-28
+cattle,Live Cattle Future,LEM3,2023-06-30
+cattle,Live Cattle Future,LEQ3,2023-08-31
+cattle,Live Cattle Future,LEV3,2023-10-31
+cattle,Live Cattle Future,LEZ3,2023-12-29
+cattle,Live Cattle Future,LEG4,2024-02-29
+cattle,Live Cattle Future,LEJ4,2024-04-30
+cattle,Live Cattle Future,LEM4,2024-06-28
+cattle,Live Cattle Future,LEQ4,2024-08-30
+cattle,Live Cattle Future,LEV4,2024-10-31
+cattle,Live Cattle Future,LEZ4,2024-12-31
+cattle,Feeder Cattle Future,GFF1,2021-01-29
+cattle,Feeder Cattle Future,GFH1,2021-03-31
+cattle,Feeder Cattle Future,GFJ1,2021-04-30
+cattle,Feeder Cattle Future,GFK1,2021-05-31
+cattle,Feeder Cattle Future,GFQ1,2021-08-31
+cattle,Feeder Cattle Future,GFU1,2021-09-30
+cattle,Feeder Cattle Future,GFV1,2021-10-29
+cattle,Feeder Cattle Future,GFX1,2021-11-30
+cattle,Feeder Cattle Future,GFF2,2022-01-31
+cattle,Feeder Cattle Future,GFH2,2022-03-31
+cattle,Feeder Cattle Future,GFJ2,2022-04-29
+cattle,Feeder Cattle Future,GFK2,2022-05-31
+cattle,Feeder Cattle Future,GFQ2,2022-08-31
+cattle,Feeder Cattle Future,GFU2,2022-09-30
+cattle,Feeder Cattle Future,GFV2,2022-10-31
+cattle,Feeder Cattle Future,GFX2,2022-11-30
+cattle,Feeder Cattle Future,GFF3,2023-01-31
+cattle,Feeder Cattle Future,GFH3,2023-03-31
+cattle,Feeder Cattle Future,GFJ3,2023-04-28
+cattle,Feeder Cattle Future,GFK3,2023-05-31
+cattle,Feeder Cattle Future,GFQ3,2023-08-31
+cattle,Feeder Cattle Future,GFU3,2023-09-29
+cattle,Feeder Cattle Future,GFV3,2023-10-31
+cattle,Feeder Cattle Future,GFX3,2023-11-30
+cattle,Feeder Cattle Future,GFF4,2024-01-31
+cattle,Feeder Cattle Future,GFH4,2024-03-29
+cattle,Feeder Cattle Future,GFJ4,2024-04-30
+cattle,Feeder Cattle Future,GFK4,2024-05-31
+cattle,Feeder Cattle Future,GFQ4,2024-08-30
+cattle,Feeder Cattle Future,GFU4,2024-09-30
+cattle,Feeder Cattle Future,GFV4,2024-10-31
+cattle,Feeder Cattle Future,GFX4,2024-11-29
+corn,Corn Future,ZCH1,2021-03-15
+corn,Corn Future,ZCK1,2021-05-15
+corn,Corn Future,ZCN1,2021-07-15
+corn,Corn Future,ZCU1,2021-09-15
+corn,Corn Future,ZCZ1,2021-12-15
+corn,Corn Future,ZCH2,2022-03-15
+corn,Corn Future,ZCK2,2022-05-15
+corn,Corn Future,ZCN2,2022-07-15
+corn,Corn Future,ZCU2,2022-09-15
+corn,Corn Future,ZCZ2,2022-12-15
+corn,Corn Future,ZCH3,2023-03-15
+corn,Corn Future,ZCK3,2023-05-15
+corn,Corn Future,ZCN3,2023-07-15
+corn,Corn Future,ZCU3,2023-09-15
+corn,Corn Future,ZCZ3,2023-12-15
+corn,Corn Future,ZCH4,2024-03-15
+corn,Corn Future,ZCK4,2024-05-15
+corn,Corn Future,ZCN4,2024-07-15
+corn,Corn Future,ZCU4,2024-09-15
+corn,Corn Future,ZCZ4,2024-12-15
+dairy,Class III Milk Future,DCF1,2021-02-05
+dairy,Class III Milk Future,DCG1,2021-03-05
+dairy,Class III Milk Future,DCH1,2021-04-07
+dairy,Class III Milk Future,DCJ1,2021-05-06
+dairy,Class III Milk Future,DCK1,2021-06-07
+dairy,Class III Milk Future,DCM1,2021-07-07
+dairy,Class III Milk Future,DCN1,2021-08-05
+dairy,Class III Milk Future,DCQ1,2021-09-07
+dairy,Class III Milk Future,DCU1,2021-10-07
+dairy,Class III Milk Future,DCV1,2021-11-05
+dairy,Class III Milk Future,DCX1,2021-12-07
+dairy,Class III Milk Future,DCZ1,2022-01-06
+dairy,Class III Milk Future,DCF2,2022-02-07
+dairy,Class III Milk Future,DCG2,2022-03-07
+dairy,Class III Milk Future,DCH2,2022-04-07
+dairy,Class III Milk Future,DCJ2,2022-05-05
+dairy,Class III Milk Future,DCK2,2022-06-07
+dairy,Class III Milk Future,DCM2,2022-07-07
+dairy,Class III Milk Future,DCN2,2022-08-05
+dairy,Class III Milk Future,DCQ2,2022-09-07
+dairy,Class III Milk Future,DCU2,2022-10-06
+dairy,Class III Milk Future,DCV2,2022-11-07
+dairy,Class III Milk Future,DCX2,2022-12-07
+dairy,Class III Milk Future,DCZ2,2023-01-05
+dairy,Class III Milk Future,DCF3,2023-02-07
+dairy,Class III Milk Future,DCG3,2023-03-07
+dairy,Class III Milk Future,DCH3,2023-04-06
+dairy,Class III Milk Future,DCJ3,2023-05-05
+dairy,Class III Milk Future,DCK3,2023-06-07
+dairy,Class III Milk Future,DCM3,2023-07-06
+dairy,Class III Milk Future,DCN3,2023-08-07
+dairy,Class III Milk Future,DCQ3,2023-09-07
+dairy,Class III Milk Future,DCU3,2023-10-05
+dairy,Class III Milk Future,DCV3,2023-11-07
+dairy,Class III Milk Future,DCX3,2023-12-07
+dairy,Class III Milk Future,DCZ3,2024-01-05
+dairy,Class III Milk Future,DCF4,2024-02-07
+dairy,Class III Milk Future,DCG4,2024-03-07
+dairy,Class III Milk Future,DCH4,2024-04-05
+dairy,Class III Milk Future,DCJ4,2024-05-07
+dairy,Class III Milk Future,DCK4,2024-06-06
+dairy,Class III Milk Future,DCM4,2024-07-05
+dairy,Class III Milk Future,DCN4,2024-08-07
+dairy,Class III Milk Future,DCQ4,2024-09-05
+dairy,Class III Milk Future,DCU4,2024-10-07
+dairy,Class III Milk Future,DCV4,2024-11-07
+dairy,Class III Milk Future,DCX4,2024-12-05
+dairy,Class III Milk Future,DCZ4,2025-01-07
+dairy,Class IV Milk Future,GDKF1,2021-02-05
+dairy,Class IV Milk Future,GDKG1,2021-03-05
+dairy,Class IV Milk Future,GDKH1,2021-04-07
+dairy,Class IV Milk Future,GDKJ1,2021-05-06
+dairy,Class IV Milk Future,GDKK1,2021-06-07
+dairy,Class IV Milk Future,GDKM1,2021-07-07
+dairy,Class IV Milk Future,GDKN1,2021-08-05
+dairy,Class IV Milk Future,GDKQ1,2021-09-07
+dairy,Class IV Milk Future,GDKU1,2021-10-07
+dairy,Class IV Milk Future,GDKV1,2021-11-05
+dairy,Class IV Milk Future,GDKX1,2021-12-07
+dairy,Class IV Milk Future,GDKZ1,2022-01-06
+dairy,Class IV Milk Future,GDKF2,2022-02-07
+dairy,Class IV Milk Future,GDKG2,2022-03-07
+dairy,Class IV Milk Future,GDKH2,2022-04-07
+dairy,Class IV Milk Future,GDKJ2,2022-05-05
+dairy,Class IV Milk Future,GDKK2,2022-06-07
+dairy,Class IV Milk Future,GDKM2,2022-07-07
+dairy,Class IV Milk Future,GDKN2,2022-08-05
+dairy,Class IV Milk Future,GDKQ2,2022-09-07
+dairy,Class IV Milk Future,GDKU2,2022-10-06
+dairy,Class IV Milk Future,GDKV2,2022-11-07
+dairy,Class IV Milk Future,GDKX2,2022-12-07
+dairy,Class IV Milk Future,GDKZ2,2023-01-05
+dairy,Class IV Milk Future,GDKF3,2023-02-07
+dairy,Class IV Milk Future,GDKG3,2023-03-07
+dairy,Class IV Milk Future,GDKH3,2023-04-06
+dairy,Class IV Milk Future,GDKJ3,2023-05-05
+dairy,Class IV Milk Future,GDKK3,2023-06-07
+dairy,Class IV Milk Future,GDKM3,2023-07-06
+dairy,Class IV Milk Future,GDKN3,2023-08-07
+dairy,Class IV Milk Future,GDKQ3,2023-09-07
+dairy,Class IV Milk Future,GDKU3,2023-10-05
+dairy,Class IV Milk Future,GDKV3,2023-11-07
+dairy,Class IV Milk Future,GDKX3,2023-12-07
+dairy,Class IV Milk Future,GDKZ3,2024-01-05
+dairy,Class IV Milk Future,GDKF4,2024-02-07
+dairy,Class IV Milk Future,GDKG4,2024-03-07
+dairy,Class IV Milk Future,GDKH4,2024-04-05
+dairy,Class IV Milk Future,GDKJ4,2024-05-07
+dairy,Class IV Milk Future,GDKK4,2024-06-06
+dairy,Class IV Milk Future,GDKM4,2024-07-05
+dairy,Class IV Milk Future,GDKN4,2024-08-07
+dairy,Class IV Milk Future,GDKQ4,2024-09-05
+dairy,Class IV Milk Future,GDKU4,2024-10-07
+dairy,Class IV Milk Future,GDKV4,2024-11-07
+dairy,Class IV Milk Future,GDKX4,2024-12-05
+dairy,Class IV Milk Future,GDKZ4,2025-01-07
+lean hog,Lean Hogs Future,HEG1,2021-02-26
+lean hog,Lean Hogs Future,HEJ1,2021-04-30
+lean hog,Lean Hogs Future,HEK1,2021-05-31
+lean hog,Lean Hogs Future,HEM1,2021-06-30
+lean hog,Lean Hogs Future,HEN1,2021-07-30
+lean hog,Lean Hogs Future,HEQ1,2021-08-31
+lean hog,Lean Hogs Future,HEV1,2021-10-29
+lean hog,Lean Hogs Future,HEZ1,2021-12-31
+lean hog,Lean Hogs Future,HEG2,2022-02-28
+lean hog,Lean Hogs Future,HEJ2,2022-04-29
+lean hog,Lean Hogs Future,HEK2,2022-05-31
+lean hog,Lean Hogs Future,HEM2,2022-06-30
+lean hog,Lean Hogs Future,HEN2,2022-07-29
+lean hog,Lean Hogs Future,HEQ2,2022-08-31
+lean hog,Lean Hogs Future,HEV2,2022-10-31
+lean hog,Lean Hogs Future,HEZ2,2022-12-30
+lean hog,Lean Hogs Future,HEG3,2023-02-28
+lean hog,Lean Hogs Future,HEJ3,2023-04-28
+lean hog,Lean Hogs Future,HEK3,2023-05-31
+lean hog,Lean Hogs Future,HEM3,2023-06-30
+lean hog,Lean Hogs Future,HEN3,2023-07-31
+lean hog,Lean Hogs Future,HEQ3,2023-08-31
+lean hog,Lean Hogs Future,HEV3,2023-10-31
+lean hog,Lean Hogs Future,HEZ3,2023-12-29
+lean hog,Lean Hogs Future,HEG4,2024-02-29
+lean hog,Lean Hogs Future,HEJ4,2024-04-30
+lean hog,Lean Hogs Future,HEK4,2024-05-31
+lean hog,Lean Hogs Future,HEM4,2024-06-28
+lean hog,Lean Hogs Future,HEN4,2024-07-31
+lean hog,Lean Hogs Future,HEQ4,2024-08-30
+lean hog,Lean Hogs Future,HEV4,2024-10-31
+lean hog,Lean Hogs Future,HEZ4,2024-12-31
+soybean,Soybeans Future,ZSF1,2021-01-15
+soybean,Soybeans Future,ZSH1,2021-03-15
+soybean,Soybeans Future,ZSK1,2021-05-15
+soybean,Soybeans Future,ZSN1,2021-07-15
+soybean,Soybeans Future,ZSQ1,2021-08-15
+soybean,Soybeans Future,ZSU1,2021-09-15
+soybean,Soybeans Future,ZSX1,2021-11-15
+soybean,Soybeans Future,ZSF2,2022-01-15
+soybean,Soybeans Future,ZSH2,2022-03-15
+soybean,Soybeans Future,ZSK2,2022-05-15
+soybean,Soybeans Future,ZSN2,2022-07-15
+soybean,Soybeans Future,ZSQ2,2022-08-15
+soybean,Soybeans Future,ZSU2,2022-09-15
+soybean,Soybeans Future,ZSX2,2022-11-15
+soybean,Soybeans Future,ZSF3,2023-01-15
+soybean,Soybeans Future,ZSH3,2023-03-15
+soybean,Soybeans Future,ZSK3,2023-05-15
+soybean,Soybeans Future,ZSN3,2023-07-15
+soybean,Soybeans Future,ZSQ3,2023-08-15
+soybean,Soybeans Future,ZSU3,2023-09-15
+soybean,Soybeans Future,ZSX3,2023-11-15
+soybean,Soybeans Future,ZSF4,2024-01-15
+soybean,Soybeans Future,ZSH4,2024-03-15
+soybean,Soybeans Future,ZSK4,2024-05-15
+soybean,Soybeans Future,ZSN4,2024-07-15
+soybean,Soybeans Future,ZSQ4,2024-08-15
+soybean,Soybeans Future,ZSU4,2024-09-15
+soybean,Soybeans Future,ZSX4,2024-11-15
+soybean,Soybean Oil Future,ZLF1,2021-01-15
+soybean,Soybean Oil Future,ZLH1,2021-03-15
+soybean,Soybean Oil Future,ZLK1,2021-05-15
+soybean,Soybean Oil Future,ZLN1,2021-07-15
+soybean,Soybean Oil Future,ZLQ1,2021-08-15
+soybean,Soybean Oil Future,ZLU1,2021-09-15
+soybean,Soybean Oil Future,ZLV1,2021-10-15
+soybean,Soybean Oil Future,ZLZ1,2021-12-15
+soybean,Soybean Oil Future,ZLF2,2022-01-15
+soybean,Soybean Oil Future,ZLH2,2022-03-15
+soybean,Soybean Oil Future,ZLK2,2022-05-15
+soybean,Soybean Oil Future,ZLN2,2022-07-15
+soybean,Soybean Oil Future,ZLQ2,2022-08-15
+soybean,Soybean Oil Future,ZLU2,2022-09-15
+soybean,Soybean Oil Future,ZLV2,2022-10-15
+soybean,Soybean Oil Future,ZLZ2,2022-12-15
+soybean,Soybean Oil Future,ZLF3,2023-01-15
+soybean,Soybean Oil Future,ZLH3,2023-03-15
+soybean,Soybean Oil Future,ZLK3,2023-05-15
+soybean,Soybean Oil Future,ZLN3,2023-07-15
+soybean,Soybean Oil Future,ZLQ3,2023-08-15
+soybean,Soybean Oil Future,ZLU3,2023-09-15
+soybean,Soybean Oil Future,ZLV3,2023-10-15
+soybean,Soybean Oil Future,ZLZ3,2023-12-15
+soybean,Soybean Oil Future,ZLF4,2024-01-15
+soybean,Soybean Oil Future,ZLH4,2024-03-15
+soybean,Soybean Oil Future,ZLK4,2024-05-15
+soybean,Soybean Oil Future,ZLN4,2024-07-15
+soybean,Soybean Oil Future,ZLQ4,2024-08-15
+soybean,Soybean Oil Future,ZLU4,2024-09-15
+soybean,Soybean Oil Future,ZLV4,2024-10-15
+soybean,Soybean Oil Future,ZLZ4,2024-12-15
+soybean,Soybean Meal Future,ZMF1,2021-01-15
+soybean,Soybean Meal Future,ZMH1,2021-03-15
+soybean,Soybean Meal Future,ZMK1,2021-05-15
+soybean,Soybean Meal Future,ZMN1,2021-07-15
+soybean,Soybean Meal Future,ZMQ1,2021-08-15
+soybean,Soybean Meal Future,ZMU1,2021-09-15
+soybean,Soybean Meal Future,ZMV1,2021-10-15
+soybean,Soybean Meal Future,ZMZ1,2021-12-15
+soybean,Soybean Meal Future,ZMF2,2022-01-15
+soybean,Soybean Meal Future,ZMH2,2022-03-15
+soybean,Soybean Meal Future,ZMK2,2022-05-15
+soybean,Soybean Meal Future,ZMN2,2022-07-15
+soybean,Soybean Meal Future,ZMQ2,2022-08-15
+soybean,Soybean Meal Future,ZMU2,2022-09-15
+soybean,Soybean Meal Future,ZMV2,2022-10-15
+soybean,Soybean Meal Future,ZMZ2,2022-12-15
+soybean,Soybean Meal Future,ZMF3,2023-01-15
+soybean,Soybean Meal Future,ZMH3,2023-03-15
+soybean,Soybean Meal Future,ZMK3,2023-05-15
+soybean,Soybean Meal Future,ZMN3,2023-07-15
+soybean,Soybean Meal Future,ZMQ3,2023-08-15
+soybean,Soybean Meal Future,ZMU3,2023-09-15
+soybean,Soybean Meal Future,ZMV3,2023-10-15
+soybean,Soybean Meal Future,ZMZ3,2023-12-15
+soybean,Soybean Meal Future,ZMF4,2024-01-15
+soybean,Soybean Meal Future,ZMH4,2024-03-15
+soybean,Soybean Meal Future,ZMK4,2024-05-15
+soybean,Soybean Meal Future,ZMN4,2024-07-15
+soybean,Soybean Meal Future,ZMQ4,2024-08-15
+soybean,Soybean Meal Future,ZMU4,2024-09-15
+soybean,Soybean Meal Future,ZMV4,2024-10-15
+soybean,Soybean Meal Future,ZMZ4,2024-12-15
+wheat,Chicago SRW Wheat Future,ZWH1,2021-03-15
+wheat,Chicago SRW Wheat Future,ZWK1,2021-05-15
+wheat,Chicago SRW Wheat Future,ZWN1,2021-07-15
+wheat,Chicago SRW Wheat Future,ZWU1,2021-09-15
+wheat,Chicago SRW Wheat Future,ZWZ1,2021-12-15
+wheat,Chicago SRW Wheat Future,ZWH2,2022-03-15
+wheat,Chicago SRW Wheat Future,ZWK2,2022-05-15
+wheat,Chicago SRW Wheat Future,ZWN2,2022-07-15
+wheat,Chicago SRW Wheat Future,ZWU2,2022-09-15
+wheat,Chicago SRW Wheat Future,ZWZ2,2022-12-15
+wheat,Chicago SRW Wheat Future,ZWH3,2023-03-15
+wheat,Chicago SRW Wheat Future,ZWK3,2023-05-15
+wheat,Chicago SRW Wheat Future,ZWN3,2023-07-15
+wheat,Chicago SRW Wheat Future,ZWU3,2023-09-15
+wheat,Chicago SRW Wheat Future,ZWZ3,2023-12-15
+wheat,Chicago SRW Wheat Future,ZWH4,2024-03-15
+wheat,Chicago SRW Wheat Future,ZWK4,2024-05-15
+wheat,Chicago SRW Wheat Future,ZWN4,2024-07-15
+wheat,Chicago SRW Wheat Future,ZWU4,2024-09-15
+wheat,Chicago SRW Wheat Future,ZWZ4,2024-12-15
+wheat,KC HRW Wheat Future,KEH1,2021-03-15
+wheat,KC HRW Wheat Future,KEK1,2021-05-15
+wheat,KC HRW Wheat Future,KEN1,2021-07-15
+wheat,KC HRW Wheat Future,KEU1,2021-09-15
+wheat,KC HRW Wheat Future,KEZ1,2021-12-15
+wheat,KC HRW Wheat Future,KEH2,2022-03-15
+wheat,KC HRW Wheat Future,KEK2,2022-05-15
+wheat,KC HRW Wheat Future,KEN2,2022-07-15
+wheat,KC HRW Wheat Future,KEU2,2022-09-15
+wheat,KC HRW Wheat Future,KEZ2,2022-12-15
+wheat,KC HRW Wheat Future,KEH3,2023-03-15
+wheat,KC HRW Wheat Future,KEK3,2023-05-15
+wheat,KC HRW Wheat Future,KEN3,2023-07-15
+wheat,KC HRW Wheat Future,KEU3,2023-09-15
+wheat,KC HRW Wheat Future,KEZ3,2023-12-15
+wheat,KC HRW Wheat Future,KEH4,2024-03-15
+wheat,KC HRW Wheat Future,KEK4,2024-05-15
+wheat,KC HRW Wheat Future,KEN4,2024-07-15
+wheat,KC HRW Wheat Future,KEU4,2024-09-15
+wheat,KC HRW Wheat Future,KEZ4,2024-12-15
