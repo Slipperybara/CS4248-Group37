@@ -1,7 +1,7 @@
 # CS4248 Project: Factual Market Report Generation with Statistical KAG
 
 ## Overview
-This project explores the automated generation of factual financial market reports from daily market opening tickers. By combining Large Language Models (LLMs) with a custom Statistical Retrieval-Augmented Generation (KAG) pipeline, we aim to mitigate parametric hallucinations and improve the mathematical accuracy of generated financial text.
+This project explores the automated generation of factual financial market reports from daily market opening tickers. By combining Large Language Models (LLMs) with a custom Statistical Knowledge-Augmented Generation (KAG) pipeline, we aim to mitigate parametric hallucinations and improve the mathematical accuracy of generated financial text.
 
 ## Acknowledgements & Attribution
 This project builds heavily upon the baseline data-to-text pipeline developed in the [DataTales](https://github.com/YourLinkToDataTales) repository. 
