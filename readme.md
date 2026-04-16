@@ -1,18 +1,18 @@
-# CS4248 Project: Factual Market Report Generation with Statistical RAG
+# CS4248 Project: Factual Market Report Generation with Statistical KAG
 
 ## Overview
-This project explores the automated generation of factual financial market reports from daily market opening tickers. By combining Large Language Models (LLMs) with a custom Statistical Retrieval-Augmented Generation (RAG) pipeline, we aim to mitigate parametric hallucinations and improve the mathematical accuracy of generated financial text.
+This project explores the automated generation of factual financial market reports from daily market opening tickers. By combining Large Language Models (LLMs) with a custom Statistical Retrieval-Augmented Generation (KAG) pipeline, we aim to mitigate parametric hallucinations and improve the mathematical accuracy of generated financial text.
 
 ## Acknowledgements & Attribution
 This project builds heavily upon the baseline data-to-text pipeline developed in the [DataTales](https://github.com/YourLinkToDataTales) repository. 
 * The baseline dataset compilation, raw table parsing, and evaluation formatting scripts are adapted from their original work. 
-* **Our novel contributions** include the engineering of a dynamic `InstanceFactExtractor` for statistical RAG injection, mathematical enrichment of table features, and zero-shot inference optimization on open-weight models.
+* **Our novel contributions** include the engineering of a dynamic `InstanceFactExtractor` for statistical KAG injection, mathematical enrichment of table features, and zero-shot inference optimization on open-weight models.
 
 ## Repository Structure
 This repository is divided into two primary workflows:
 
-1. **Generating the Benchmark & RAG:** Constructing the dataset, engineering statistical indicators, and customizing the time span and size of the RAG dataset.
-2. **Model Inference:** Running inference on different models (e.g., Llama-2, Qwen2.5) with and without RAG on the NUS SoC Computing cluster.
+1. **Generating the Benchmark & KAG:** Constructing the dataset, engineering statistical indicators, and customizing the time span and size of the KAG dataset.
+2. **Model Inference:** Running inference on different models (e.g., Llama-2, Qwen2.5) with and without KAG on the NUS SoC Computing cluster.
 
 ---
 
@@ -74,7 +74,7 @@ python process_table_data.py
 **Objectives:**
 - Extract historical data for the specified time span.
 - **Novel Addition (Mathematical Enrichment):** Calculate additional stock market indicators for every asset within the timeframe, including daily percentage change, weekly change, intraday range, distance from the 20-day Simple Moving Average (SMA-20), and RSI.
-- **Novel Addition (Data Categorization):** Classify each asset into categorical variables (e.g., 'Surge/Plunge', 'High/Low Volatility', 'Above/Below 20-SMA') based on the computed indicator values. This prepares the tabular data for the downstream RAG engine.
+- **Novel Addition (Data Categorization):** Classify each asset into categorical variables (e.g., 'Surge/Plunge', 'High/Low Volatility', 'Above/Below 20-SMA') based on the computed indicator values. This prepares the tabular data for the downstream KAG engine.
 - Process and format the enriched data for each market report.
 - Organize the final tables by market and data source.
 
@@ -90,16 +90,16 @@ data/
                         └── <report_date>.csv
 ```
 
-#### Step 3: Construct the RAG Dataset (`construct_dataset_RAG.py`)
+#### Step 3: Construct the KAG Dataset (`construct_dataset_KAG.py`)
 > **Note:** Ensure the configuration inside this script points to the `injected/` tabular data directory and that the `history_span` variable matches the timeline you selected in Step 2.
 
 ```bash
-python construct_dataset_RAG.py
+python construct_dataset_KAG.py
 ```
 
 **Objectives:**
 - Combine table data with corresponding market reports.
-- **Novel Addition:** Dynamically extracts the top statistical facts (via the `InstanceFactExtractor`) and injects them directly into the formatted prompt as a RAG context block.
+- **Novel Addition:** Dynamically extracts the top statistical facts (via the `InstanceFactExtractor`) and injects them directly into the formatted prompt as a KAG context block.
 - Format the final prompts to be ready for model inference or training.
 
 **Output Structure:**
@@ -108,7 +108,7 @@ data/
 └── processed_dataset/
     └── injected/
         └── <historical_time_span>/
-            └── <split>.json        # Contains enriched tables, RAG facts, prompts, and reports
+            └── <split>.json        # Contains enriched tables, KAG facts, prompts, and reports
 ```
 
 ## 2. Model Inference Pipeline
@@ -118,4 +118,4 @@ This section contains the necessary scripts to evaluate the generated datasets u
 **Key Components:**
 * **Fine-Tuning & Inference:** Includes complete scripts for LoRA fine-tuning as well as running generation tasks.
 * **Supported Models:** Specifically configured and tested for inference on **Llama-2-7b** and **Qwen2.5-7b**.
-* **Jupyter Notebook:** A interactive environment to test out RAG generation
+* **Jupyter Notebook:** A interactive environment to test out KAG generation
